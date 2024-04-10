@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(129, 93, 93);
+    color: aliceblue;
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h5 {
+    display: inline;
+    text-align: center;
+    font-style: italic;
+    background-color: sandybrown;
+    opacity: 80%;
+    font-weight: bolder;
+    color: black;
+}
+
+a {
+    color: aqua;
+}
+
+a:visited {
+    color: pink;
+}
+
+img {
+    border: 2px solid fuchsia;
+    padding: 3px;
+    margin: 5px;
+
+    /*centers stuff*/
+    /* display: block;
+       margin: auto;*/
+
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+
+.rizz {
+    font-family: fantasy;
+    color: midnightblue;
+    background-color: coral;
+    border: dashed rgb(217, 231, 196) 5px;
+    font-size: 36pt;
+    font-style: normal;
+
+}
+
+.rizz:hover {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(37, 150, 93);
+  /*  font-style: 16pt;*/
+    border: none;
+    background-color: cornsilk;
+}
+
+li{
+    text-decoration: overline;
+}
+li:hover{
+    text-decoration: underline;
+}
+

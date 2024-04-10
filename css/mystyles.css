@@ -1,0 +1,21 @@
+body{
+    font-family:comic sans-serif;
+}
+.site-heading-lower{
+    font-family:comic sans-serif;
+
+}
+.mb-3{
+    font-family:comic sans-serif;
+color: yellow !important;
+
+}
+.notyellow{
+    color: black !important;
+}
+.intro-text{ 
+    box-shadow: 15px 15px 20px rgba(0,0,0,0.5);
+}
+.section-heading-lower {
+    box-shadow: 15px 15px 20px rgba(0,0,0,0.5);
+}
